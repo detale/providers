@@ -1,0 +1,446 @@
+bankrate	Bankrate
+billboard	Billboard
+bloomberg	Bloomberg
+business-insider	Business Insider
+coursera	Coursera
+digitaltrends	Digital Trends
+entrepreneur	Entrepreneur
+expwithgoogle	Experiments with Google
+google		Google
+inaturalist	iNaturalist
+latimes		Los Angeles Times
+linkedin-learning	LinkedIn Learning
+microsoft-learn		Microsoft Learn
+newsweek	Newsweek
+nytimes		The New York Times
+psl		PSL
+quartz		Quartz
+techcrunch	TechCrunch
+techrepublic	TechRepublic
+themotleyfool	The Motley Fool
+thenextweb	TNW
+theverge	The Verge
+time		TIME
+zdnet		ZDNet
+thedetroitnews		The Detroit News
+bgronmsn.com		BGR on MSN.com
+cbsnews		CBS News
+thevancouversun		The Vancouver Sun
+dailymail.co.uk		dailymail.co.uk
+forbes		Forbes
+marketwatch		MarketWatch
+motleyfoolaustralia		Motley Fool Australia
+u.s.news&worldreport		U.S. News & World Report
+dealerscope		Dealerscope
+cioreview		CIOReview
+finextra		Finextra
+thebusinessjournals		The Business Journals
+wtopnews		WTOP News
+thewaterloo-cedarfallscourier		The Waterloo-Cedar Falls Courier
+travelmole		Travel Mole
+sourcesecurity		SourceSecurity
+venturebeat		VentureBeat
+inc42.com		inc42.com
+sdtimes		SD Times
+yahoo!		YAHOO!
+nature		Nature
+thewashingtonpost		The Washington Post
+martechadvisor		MarTech Advisor
+indiatimes		Indiatimes
+metro		Metro
+insidehpc		insideHPC
+thenextplatform		The Next Platform
+hpcwire		HPCwire
+engadget		Engadget
+webcms		Web CMS
+businessinsider		Business Insider
+mittechnologyreview		MIT Technology Review
+csrwire		CSR Wire
+thebostonglobe		The Boston Globe
+medcitynews		MedCity News
+renogazette-journal		Reno Gazette-Journal
+androidauthority		Android Authority
+theadvocate		The Advocate
+theatlantic		The Atlantic
+educationweek		Education Week
+houstonchronicle		Houston Chronicle
+seekingalpha		Seeking Alpha
+psychologytoday		Psychology Today
+reuters		Reuters
+eweek		eWeek
+cnet		CNET
+helpnetsecurity		Help Net Security
+politico		Politico
+autocaronmsn.com		Autocar on MSN.com
+business2community		Business 2 Community
+scienceblog		ScienceBlog
+theelectronicintifada		The Electronic Intifada
+edsurge		EdSurge
+fxstreet		FXStreet
+philippinedailyinquirer		Philippine Daily Inquirer
+usatoday		USA Today
+ctvnews		CTV News
+runlinux-basedoperatv		run Linux-based Opera TV
+fiercehealthcare		FierceHealthcare
+8kpax		8KPAX
+dailymailcouk		dailymail.co.uk
+indiatimes		Indiatimes
+marketwatch		MarketWatch
+automotivenews		Automotive News
+finextra		Finextra
+virtual-strategy		Virtual-Strategy
+neowin		Neowin
+cnet		CNET
+theguardian		The Guardian
+thewashingtonpost		The Washington Post
+thewaterloo-cedarfallscourier		The Waterloo-Cedar Falls Courier
+infoq		InfoQ
+venturebeat		VentureBeat
+travelmole		Travel Mole
+networkworld		Network World
+nature		Nature
+xdadevelopers		XDA Developers
+mashable		Mashable
+sourcesecurity		SourceSecurity
+yahoo		YAHOO!
+pcmagazine		PC Magazine
+engadget		Engadget
+theedgeonmsncom		The Edge on MSN.com
+thebusinessjournals		The Business Journals
+geekwire		GeekWire
+yourstory		YourStory
+businessinsider		Business Insider
+bbcnewsonmsncom		BBC News on MSN.com
+insidehpc		insideHPC
+fastcompany		Fast Company
+seekingalpha		Seeking Alpha
+usnewsworldreport		U.S. News & World Report
+politico		Politico
+businessstandard		Business Standard
+pollstar		Pollstar
+helpnetsecurity		Help Net Security
+alleywatchcom		alleywatch.com
+internationalbusinesstimes		International Business Times
+techradar		TechRadar
+futurism		Futurism
+beckershospitalreview		Becker's Hospital Review
+pcper		pcper
+business2community		Business 2 Community
+medindia		Medindia
+financialtimes		Financial Times
+theelectronicintifada		The Electronic Intifada
+sdxcentral		SDxCentral
+iotevolutionworldcom		iotevolutionworld.com
+edsurge		EdSurge
+indiacom		India.com
+sportspro		SportsPro
+sdtimes		SD Times
+digitaljournal		Digital Journal
+govconwire		GovCon Wire
+cnbc		CNBC
+businesswire		Business Wire
+investorplace		InvestorPlace
+eweek		eWeek
+siliconangle		SiliconANGLE
+houstonchronicleonmsncom		Houston Chronicle on MSN.com
+armenpress		Armenpress
+island		Island
+thehill		The Hill
+newsweekonmsncom		Newsweek on MSN.com
+benzingacom		Benzinga.com
+thenextplatform		The Next Platform
+hpcwire		HPCwire
+webcms		Web CMS
+marketsinsider		Markets Insider
+electronicengineeringjournal		Electronic Engineering Journal
+tvnewscheck		TVNewsCheck
+bloomberglp		Bloomberg L.P.
+thejapantimes		The Japan Times
+nbcnewyork		NBC New York
+diginomica		Diginomica
+theeagle		The Eagle
+thenewindianexpress		The New Indian Express
+itworldcanada		IT World Canada
+itwire		ITWire
+roadtovr		Road to VR
+cbccaonmsncom		cbc.ca on MSN.com
+iet		IET
+cxotoday		CXO Today
+range		Range
+medium		Medium
+computerworld		Computerworld
+evertiqglobal		Evertiq Global
+moneycontrolcom		moneycontrol.com
+dotmed		DOTmed
+wsau		WSAU
+crainsnewyork		Crain's New York
+wtopnews		WTOP News
+itpro		IT Pro
+thehillonmsncom		The Hill on MSN.com
+cioreview		CIOReview
+msn		MSN
+nhk		NHK
+easterdailypress		Easter Daily Press
+thepostandcourier		The Post and Courier
+theasianage		The Asian Age
+techspot		TechSpot
+slashgear		SlashGear
+mediapost		MediaPost
+roboticsandautomationnewscom		roboticsandautomationnews.com
+themarketoracle		The Market Oracle
+androidpit		AndroidPIT
+noozhawk		Noozhawk
+computerweekly		Computer Weekly
+businessinsiderindiaonmsncom		Business Insider India on MSN.com
+thedetroitnews		The Detroit News
+fredericksburgcom		Fredericksburg.com
+hackaday		Hackaday
+embeddedcomputingdesign		Embedded Computing Design
+reason		Reason
+nanalyzecom		nanalyze.com
+fedscoop		FedScoop
+journalofaccountancy		JournalofAccountancy
+theregister		The Register
+motor1		Motor1
+ciodive		CIO Dive
+therawstory		The Raw Story
+martechadvisor		MarTech Advisor
+reuters		Reuters
+wusa		WUSA
+thebakersfieldcalifornian		The Bakersfield Californian
+torontostar		Toronto Star
+cbcca		CBC.ca
+controlengineering		Control Engineering
+menafn		MENAFN
+edge		Edge
+itweb		ITWeb
+healthitoutcomes		HealthITOUTCOMES
+mint		Mint
+bbc		BBC
+yahoofinance		Yahoo Finance
+photonicsspectra		Photonics Spectra
+popularscience		Popular Science
+thurrott		Thurrott
+timesofindiaindiatimescom		timesofindia.indiatimes.com
+sqlservercentral		SQL Server Central
+cnn		CNN
+livescience		Live Science
+newatlas		New Atlas
+indiaeducationdiary		India Education Diary
+theseattletimes		The Seattle Times
+statenislandadvance		Staten Island Advance
+hothardware		HotHardware
+edmontonjournal		Edmonton Journal
+cnetonmsncom		CNET on MSN.com
+mspoweruser		MSPoweruser
+adage		Ad Age
+armedrobberyinrevesby		Armed robbery in Revesby
+wpri12		WPRI 12
+visualstudiomagazine		Visual Studio Magazine
+etciocom		ETCIO.com
+winbuzzercom		winbuzzer.com
+tapinto		TAPinto
+housingwire		HousingWire
+telegraphindiacom		telegraphindia.com
+pulse20		Pulse 2.0
+httpstheprintin		https//theprint.in
+cnnonmsncom		CNN on MSN.com
+wtwo		WTWO
+efe		EFE
+아크로팬		아크로팬
+universityatbuffalo		University at Buffalo
+seibertroncom		Seibertron.com
+mittechnologyreview		MIT Technology Review
+businessnewsdaily		Business News Daily
+exchange4media		Exchange 4 Media
+noobpreneurcom		noobpreneur.com
+kxan		KXAN
+losangelestimes		Los Angeles Times
+medgadget		Medgadget
+europeanstingcom		europeansting.com
+financialpost		Financial Post
+gcn		GCN
+newsroomintelcom		newsroom.intel.com
+oneindia		Oneindia
+khaleejtimes		Khaleej Times
+semiconductorengineering		Semiconductor Engineering
+prnewswire		PR Newswire
+thejerusalempost		The Jerusalem Post
+equitybulls		Equity Bulls
+appualscom		appuals.com
+etautocom		ET Auto.com
+euronews		Euronews
+financialdirector		Financial Director
+harvardbusinessreview		Harvard Business Review
+thetribune		The Tribune
+tmcnet		TMCnet
+caymannewsservice		Cayman News Service
+extremetech		ExtremeTech
+inc42com		inc42.com
+chinamoneynetworkcom		chinamoneynetwork.com
+financeasia		FinanceAsia
+kakecom		KAKE.com
+thebetterindia		TheBetterIndia
+customerthink		CustomerThink
+grandrapidsbusinessjournal		Grand Rapids Business Journal
+usnewsmoney		U.S. News Money
+pehub		PE Hub
+sciencedaily		Science Daily
+globalcapital		GlobalCapital
+philippinedailyinquirer		Philippine Daily Inquirer
+pcworld		PC World
+steelnews		Steel News
+vator		Vator
+electronicdesign		Electronic Design
+thevoicebw		TheVoiceBW
+singularityhub		Singularity Hub
+etf		ETF
+patch		Patch
+thebaltimoresun		The Baltimore Sun
+newsroomgehealthcarecom		newsroom.gehealthcare.com
+channelpartners		Channel Partners
+ndtv		NDTV
+pymnts		pymnts
+foxnews		Fox News
+thenextwebcom		thenextweb.com
+wired		Wired
+coindesk		CoinDesk
+physorg		Phys.org
+theinquirer		The Inquirer
+medcitynews		MedCity News
+chainstoreage		Chain Store Age
+thehinducom		thehindu.com
+kshb		KSHB
+ticketnewscom		Ticketnews.com
+montrealgazette		Montreal Gazette
+cio		CIO
+cuinsight		CUInsight
+law360		Law360
+gdprfines		GDPR fines
+hitconsultant		HIT Consultant
+globalspec		GlobalSpec
+dataquest		Dataquest
+xinhua		Xinhua
+pokersites		Poker Sites
+healthdatamanagement		Health Data Management
+businessline		Business Line
+barrons		Barron's
+jaxentercom		jaxenter.com
+pbs		PBS
+mlive		MLive
+scopeblogstanford		Scope Blog Stanford
+yahoonews		Yahoo News
+thefinancialexpress		The Financial Express
+newyorkdailynews		New York Daily News
+sas		SAS
+techinasia		Tech in Asia
+androidauthority		Android Authority
+searchenginejournalcom		Searchenginejournal.com
+zawya		Zawya
+cointelegraph		CoinTelegraph
+globenewswire		GlobeNewswire
+newkerala		New Kerala
+msdynamicsworldcom		Msdynamicsworld.com
+lightreading		Light Reading
+digitimes		Digi Times
+microsoft		Microsoft
+medscape		Medscape
+itnewsafrica		IT News Africa
+slate		Slate
+itbusinessedge		IT Business Edge
+rigzone		Rigzone
+efinancialcareers		eFinancialCareers
+thomasnetnews		Thomasnet News
+infoworld		InfoWorld
+informationage		Information Age
+nbcbayarea		NBC Bay Area
+readwrite		ReadWrite
+ethealthworldcom		ETHealthworld.com
+nasdaq		Nasdaq
+fiercetelecom		Fierce Telecom
+eschoolnews		eSchool News
+ctovisioncom		ctovision.com
+leadershipnewspaper		LEADERSHIP Newspaper
+marketing		Marketing
+dallasmorningnews		Dallas Morning News
+newyorkpost		New York Post
+crn		CRN
+itbusiness		IT Business
+theconversationcom		theconversation.com
+windowscentral		Windows Central
+usapatch		USA Patch
+darkreading		Dark Reading
+eurekalert		EurekAlert!
+hindustantimes		Hindustan Times
+telecomeconomictimesindiatimescom		telecom.economictimes.indiatimes.com
+nbcnews		NBC News
+nikkeiasianreview		Nikkei Asian Review
+datanamicom		datanami.com
+scmpcom		scmp.com
+thejournal		The Journal
+digitaltrendscom		digitaltrends.com
+datamation		Datamation
+geekcom		Geek.com
+newscientist		New Scientist
+embedded		Embedded
+indiantelevisiondotcom		Indian Television Dot Com
+smartdatacollective		SmartData Collective
+gizbot		GIZBOT
+thewallstreetjournal		The Wall Street Journal
+nytimescom		nytimes.com
+telecompaper		Telecompaper
+scientificamerican		Scientific American
+inc		Inc.
+dealerscope		Dealerscope
+chiefmarketer		Chief Marketer
+securitieslendingtimes		Securities Lending Times
+insurancenewsnetcom		Insurancenewsnet.com
+businessinsiderindia		Business Insider India
+pewresearchjournalismproject		Pew Research Journalism Project
+ecns		ECNS
+ieeespectrum		IEEE Spectrum
+healthcaredive		Healthcare Dive
+thestar		The Star
+ohsonlinecom		Ohsonline.com
+chinadaily		China Daily
+mobileworldlive		Mobile World Live
+hack		Hack
+datacenterknowledge		Data Center Knowledge
+dabcccom		Dabcc.com
+variety		Variety
+bandt		B and T
+law		Law
+safetyhealthmagazine		Safety+Health Magazine
+meritalk		MeriTalk
+machinedesign		Machine Design
+yahoosports		Yahoo Sports
+ehstoday		EHS Today
+theplaindealer		The Plain Dealer
+technewsworld		TechNewsWorld
+indyweek		Indy Week
+webmd		WebMD
+oregonian		Oregonian
+geekygadgets		Geeky Gadgets
+thenationallawreview		The National Law Review
+marketwired		Marketwired
+industryweek		IndustryWeek
+linuxinsider		LinuxInsider
+insidescience		Inside Science
+rediffcom		rediff.com
+retailcustomerexperiencecom		Retailcustomerexperience.com
+scmagazine		SC Magazine
+thecourier-journal		The Courier-Journal
+sciencenews		Science News
+ciol		CIOL
+blackenterprise		Black Enterprise
+kotaku		Kotaku
+opendemocracy		openDemocracy
+electrek		Electrek
+poynter		Poynter
+informationmanagement		Information Management
+gen		GEN
+arstechnica		Ars Technica
+wellblogsnytimescom		well.blogs.nytimes.com
+vox		Vox
+gulfnews		Gulf News
+thestraitstimes		The Straits Times
