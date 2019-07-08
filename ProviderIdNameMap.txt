@@ -444,3 +444,318 @@ wellblogsnytimescom		well.blogs.nytimes.com
 vox		Vox
 gulfnews		Gulf News
 thestraitstimes		The Straits Times
+techaeris		Techaeris
+digitaltransactions		Digital Transactions
+einpresswire		EIN Presswire
+bizreport		BizReport
+calgaryherald		Calgary Herald
+houstonchronicle		Houston Chronicle
+analyticsvidhya		Analytics Vidhya
+itnewsforaustraliabusiness		IT News For Australia Business
+americanbanker		American Banker
+ktvu		KTVU
+fortune		Fortune
+dailynation		Daily Nation
+marketersmediacom		marketersmedia.com
+sage		Sage
+people		People
+upicom		Upi.com
+medicalxpress		Medical Xpress
+thedailytelegraph		The Daily Telegraph
+analytics		Analytics
+newsmedical		News Medical
+abc		ABC
+noupecom		noupe.com
+bitcoinmagazine		Bitcoin Magazine
+psychologytoday		Psychology Today
+nbc10philadelphia		NBC 10 Philadelphia
+yle		Yle
+fxstreet		FXStreet
+pcquest		PCQuest
+standard-examiner		Standard-Examiner
+lifehacker		Lifehacker
+duketoday		Duke Today
+xconomy		Xconomy
+insidebigdatacom		insidebigdata.com
+theinstitutionofengineeringandtechnology		The Institution of Engineering and Technology
+smartrecruiters		SmartRecruiters
+cdtorg		cdt.org
+thenewswheelcom		thenewswheel.com
+omaha		Omaha
+observer		Observer
+readmelk		readme.lk
+insidebitcoinscom		insidebitcoins.com
+therobotreport		The Robot Report
+zeebusiness		Zee Business
+australianbroadcastingcorporation		Australian Broadcasting Corporation
+protiviti		Protiviti
+ft		FT
+theatlantajournal-constitution		The Atlanta Journal-Constitution
+themercurynews		The Mercury News
+pharmiweb		PharmiWeb
+kdnuggets		KDnuggets
+healio		Healio
+electronicsforyou		Electronics For You
+technode		TechNode
+foodwine		Food & Wine
+deccanchronicle		Deccan Chronicle
+pacificstandard		Pacific Standard
+labroots		Labroots
+thedailybeast		The Daily Beast
+theregister-herald		The Register-Herald
+courthousenewsservice		Courthouse News Service
+theconversation		The Conversation
+thelondoneconomiccom		thelondoneconomic.com
+iflscience		IFLScience
+smithsonianmagazine		Smithsonian Magazine
+agritecturecom		agritecture.com
+utilitydive		Utility Dive
+ecnmag		ecnmag
+assetservicingtimes		Asset Servicing Times
+thehindu		The Hindu
+dmuacuk		dmu.ac.uk
+mynorthwestcom		MyNorthwest.com
+modelinglanguages		Modeling Languages
+digitalphotographyreview		Digital Photography Review
+analyticsinsight		Analytics Insight
+rollcall		Roll Call
+capacitymedia		Capacity Media
+danafarbercancerinstitute		Dana–Farber Cancer Institute
+roboticstomorrow		Robotics Tomorrow
+bnabh		bna.bh
+electronicsweekly		Electronics Weekly
+winston-salemjournal		Winston-Salem Journal
+biorxiv		bioRxiv
+odessaamerican		Odessa American
+bozemandailychronicle		Bozeman Daily Chronicle
+fashnerd		FashNerd
+channelnewsasiasingapore		Channel NewsAsia Singapore
+iprogrammer		I Programmer
+electronicspecifier		Electronic Specifier
+mergers		Mergers
+travelweekly		Travel Weekly
+axios		Axios
+wfmz-tv		WFMZ-TV
+figshare		Figshare
+mynewsdeskcom		mynewsdesk.com
+tgdaily		TG Daily
+independentonline		Independent Online
+element14		element14
+ejinsight		EJ Insight
+thegoodmenproject		The Good Men Project
+investorideas		Investor ideas
+physicsworld		Physics World
+seedworld		SeedWorld
+alphagalileo		AlphaGalileo
+wsil-tv		WSIL-TV
+thestreetcom		TheStreet.com
+bgr		BGR
+github		GitHub
+computerbusinessreview		Computer Business Review
+aljazeeraenglish		Al Jazeera English
+cyberdefensemagazine		Cyber Defense Magazine
+fudzilla		Fudzilla
+tuxmachinesorg		tuxmachines.org
+wdrb		WDRB
+scienceblog		ScienceBlog
+biometriccompanies		Biometric Companies
+sixteennine		Sixteen:Nine
+finsmescom		finsmes.com
+geospatial		Geospatial
+cosmos		Cosmos
+ehealthnewseu		ehealthnews.eu
+insurancejournal		Insurance Journal
+designworldonline		Design World Online
+lasvegasreview-journal		Las Vegas Review-Journal
+mobihealthnews		MobiHealthNews
+thepaypers		The Paypers
+lambda-the-ultimateorg		lambda-the-ultimate.org
+marketingweek		Marketing Week
+aviscom		avis.com
+hub		HUB
+sparkfunelectronics		SparkFun Electronics
+wdaf-tv		WDAF-TV
+foxebook		Fox eBook
+inverse		Inverse
+newsbytesph		newsbytes.ph
+theionmsncom		The i on MSN.com
+techmeme		Techmeme
+vice		VICE
+forbesindia		Forbes India
+codeproject		Code Project
+payscale		PayScale
+theoaklandpress		The Oakland Press
+spin		Spin
+financialbuzzcom		financialbuzz.com
+profitconfidential		Profit Confidential
+betakit		BetaKit
+scientificamericanmagazine		Scientific American magazine
+wdaf-tvkansascityonmsncom		WDAF-TV Kansas City on MSN.com
+bookboon		Bookboon
+georgiatechnewscenter		Georgia Tech News Center
+theindependentonmsncom		The Independent on MSN.com
+finanznachrichten		Finanznachrichten
+scroll		Scroll
+ktuucom		KTUU.com
+pensionsinvestments		Pensions&Investments
+acolyerorg		acolyer.org
+nextcity		Next City
+techopedia		Techopedia
+abcbusinessonmsncom		ABC Business on MSN.com
+provideocoalitioncom		provideocoalition.com
+dissidentvoice		Dissident Voice
+storageswisscom		storageswiss.com
+chattanoogancom		Chattanoogan.com
+militaryembeddedsystems		Military Embedded Systems
+leaprate		Leaprate
+flowingdata		FlowingData
+africacom		Africa.com
+snopescom		Snopes.com
+chroniclelu		chronicle.lu
+hospitalitynet		Hospitality Net
+marketscreener		MarketScreener
+abcactionnews		ABC Action News
+harvardbusinessschool		Harvard Business School
+lanereport		Lane Report
+nextgov		Nextgov
+link-assistantcom		Link-Assistant.Com
+centreforaviationcom		Centreforaviation.com
+salon		Salon
+7thspace		7th Space
+mybroadband		MyBroadband
+usatoday		USA Today
+aspenideasfestival		Aspen Ideas Festival
+bioengineer		BIOENGINEER
+stepstone		StepStone
+neurosciencenews		Neuroscience News
+openstack		OpenStack
+nanowerk		Nanowerk
+cbsnews		CBS News
+stanforddaily		Stanford Daily
+lifeboat		Lifeboat
+toptal		Toptal
+studycom		study.com
+diagnosticandinterventionalcardiology		Diagnostic and Interventional Cardiology
+sramanamitra		Sramana Mitra
+bostonherald		Boston Herald
+wealthmanagementcom		WealthManagement.com
+alcom		al.com
+catchnews		Catch News
+ugent		ugent
+commondreams		Common Dreams
+thejournaltimes		The Journal Times
+opentext		OpenText
+marketingdive		Marketing Dive
+plos		PLOS
+optics		Optics
+itproportal		IT Pro Portal
+redmondchannelpartner		Redmond Channel Partner
+techradaronmsncom		TechRadar on MSN.com
+embedded-visioncom		embedded-vision.com
+producthunt		Product Hunt
+jsonlinecom		jsonline.com
+notedonmsncom		NOTED on MSN.com
+opensourceforucom		opensourceforu.com
+policeone		PoliceOne
+tataconsultancyservices		Tata Consultancy Services
+tass		TASS
+risk		Risk
+moneyshowcom		MoneyShow.com
+tomshardware		Tom's Hardware
+simonsfoundation		Simons Foundation
+networksasianet		networksasia.net
+thinkadvisor		ThinkAdvisor
+educationweek		Education Week
+afcea		AFCEA
+thescrantontimes-tribune		The Scranton Times-Tribune
+infographicjournalcom		infographicjournal.com
+finanzen		Finanzen
+freshplaza		FreshPlaza
+bioitworld		Bio IT World
+econtent		E Content
+cen		C&EN
+engineering		Engineering
+security		Security
+youngupstartscom		youngupstarts.com
+tensorflow		TensorFlow
+openprcom		openpr.com
+cambridgeuniversitypress		Cambridge University Press
+wnytnewschannel13		WNYT NewsChannel 13
+radacadcom		radacad.com
+thedrum		The Drum
+japantoday		Japan Today
+indiatv		India TV
+ualredu		Ualr.edu
+redmondreporter		Redmond Reporter
+mainichi		mainichi
+publicnowcom		publicnow.com
+transhumanitynet		transhumanity.net
+almanac		Almanac
+techeconomictimesindiatimescom		tech.economictimes.indiatimes.com
+wbur		WBUR
+bostonmagazine		Boston Magazine
+dailyherald		Daily Herald
+wickedlocal		Wicked Local
+natureasiacom		natureasia.com
+albawabanews		Al Bawaba News
+thenewyorktimes		The New York Times
+hacker		Hacker
+wbtv		WBTV
+charitydigitalnewscouk		charitydigitalnews.co.uk
+cloudacademy		Cloud Academy
+neo4j		Neo4j
+tampabaytimes		Tampa Bay Times
+sharepoint		SharePoint
+thenewzealandherald		The New Zealand Herald
+springwise		Springwise
+tabletmagazine		Tablet Magazine
+fredhutch		Fred Hutch
+gizmochina		Gizmochina
+loginorcreateaccount		Login or Create Account
+sarasotaherald-tribune		Sarasota Herald-Tribune
+wordswithoutborders		Words Without Borders
+hashnodecom		hashnode.com
+thesun		The Sun
+thestreetonmsncom		The Street on MSN.com
+globalcitizen		Global Citizen
+computerworlduk		ComputerworldUK
+ctmfilecom		ctmfile.com
+ewnsport		EWN Sport
+advancedtelevision		Advanced Television
+kimkomando		Kim Komando
+counterpunch		CounterPunch
+wordpresscom		WordPress.com
+bol		Bol
+nationalmortgageprofessionalmagazine		National Mortgage Professional Magazine
+9to5mac		9to5Mac
+rteonline		RTE Online
+theday		The Day
+navytimes		Navy Times
+directmarketingnews		Direct Marketing News
+ssrn		SSRN
+futuritynews		Futurity News
+erpsoftwareblogcom		erpsoftwareblog.com
+rtv6indianapolis		RTV6 Indianapolis
+yahoosingaporefinance		Yahoo Singapore Finance
+warontherocks		War on the Rocks
+cyprusmail		Cyprus Mail
+forbesmiddleeastcom		forbesmiddleeast.com
+womensweardaily		Women's Wear Daily
+universityofsurrey		University of Surrey
+selfimprovement		Self Improvement
+pocketnowcom		pocketnow.com
+workforce		Workforce
+bleedingcool		Bleeding Cool
+abovethelaw		Above the Law
+reportsnreports		ReportsnReports
+readingeagle		Reading Eagle
+innovationexcellence		Innovation Excellence
+bustle		Bustle
+triblivecom		TribLIVE.com
+edureka		Edureka
+dailyhampshiregazette		Daily Hampshire Gazette
+visionsystemsdesign		Vision Systems Design
+nsfgov		nsf.gov
+designboom		Designboom
+fiunews		FIU News
+inquirertechnology		Inquirer Technology
